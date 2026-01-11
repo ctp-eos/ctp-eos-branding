@@ -17,7 +17,7 @@ The default **CTP-EOS™** symbol is a **blue chrome equilateral upward-facing t
 - **CTP-EOS™ Roots originally based on Arch Linux**:  
   - The upgward facing triangle also alludes to the English letter 'A' for 'Arch' or [Arch Linux](https://archlinux.org) CTP-EOS™ rolling is based on.
   - The triangle/pyramid or 'delta' also alludes to the English 'D' for 'Debian' or [Debian Linux](https://debian.org) CTP-EOS™ LTS/stable is based on.
-  - CTP-EOS is a multi-format Linux LTS/rolling-release distrubution based on Debian Linux [Debian Linux](https://debian.org) [Arch Linux](https://archlinux.org), providing a lightweight and flexible foundation for CTP-EOS™.
+  - CTP-EOS is a multi-format Linux LTS/rolling-release distrubution based on BOTH Debian Linux [Debian Linux](https://debian.org) and [Arch Linux](https://archlinux.org), providing a lightweight and flexible foundation for CTP-EOS™.
 
 
 This symbol stands as a unifying icon for the **CTP-EOS™ Operating System** and the broader vision of **CTP Energy Science/the CTPSci Sciences**—merging advanced energy principles with modern computing.
